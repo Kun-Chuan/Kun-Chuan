@@ -3,6 +3,6 @@
 
 。 Interested in Digital Design
 
-Skills  
+Languages and tools 
 
 。Cadence Virtuoso, C, Verilog
