@@ -5,4 +5,6 @@
 
 Languages and tools 
 
-。Cadence Virtuoso, C, Verilog
+。Verilog, VHDL, SystemVerilog , C
+
+。ModelSim, Quartus II, Vivado, Cadence Virtuoso
